@@ -1,10 +1,7 @@
-#0-1 Knapsack-Calculator
+# 0-1 Knapsack-Calculator
 
-Click the link to solve 0-1 Knapsack Problems
+Click the [link](https://mdshihabahmed.github.io/0-1-Knapsack-Calculator/) to solve 0-1 Knapsack Problems
 
-https://mdshihabahmed.github.io/0-1-Knapsack-Calculator/
+Solution comes with **Resultant Table**, **Profit** and **Items-Profits** included in the sack.
 
-Solution comes with Resultant Table, Profit and Items-Profits included in the sack.
-
-Modified from:-
-https://augustineaykara.github.io/Knapsack-Calculator/
+Modified from this [link](https://augustineaykara.github.io/Knapsack-Calculator/)
